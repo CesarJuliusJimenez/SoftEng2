@@ -10,7 +10,6 @@ public class CarTest {
         .engineType("Gasoline")
         .build();
 
-
     System.out.println();
     System.out.println("Car Information");
     System.out.println();
